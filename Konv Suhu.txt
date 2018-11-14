@@ -1,0 +1,6 @@
+C to Fahrenheit =  1.8 * suhu + 32
+C to Kelvin = suhu + 273
+Kelvin to C = suhu - 273
+Kelvin to Fahrenheit = 1.8 *(suhu-273)+32
+Fahrenheit to Celcius =  0.55 * (suhu - 32)
+Fahrenheit to Kelvin = 0.55 * (suhu - 32) + 273
